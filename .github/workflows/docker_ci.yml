@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - 'master'
-
+      - 'BharathA14-patch-1'
 jobs:
   docker:
     runs-on: ubuntu-latest
